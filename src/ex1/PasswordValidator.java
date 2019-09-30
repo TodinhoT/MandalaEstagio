@@ -32,6 +32,7 @@ public class PasswordValidator {
 				System.out.println("Senha invalida");
 			}
 		}
+
 		ent.close();
 	}
 
